@@ -1,3 +1,5 @@
-Build gen/eval_code.js using
+Build dist/eval_code.js using
 
 ./node_modules/.bin/parcel build eval_code.p6
+
+dist/eval_code.js should then be placed in gen/eval_code.js in 6pad
