@@ -1,0 +1,3 @@
+Build gen/eval_code.js using
+
+./node_modules/.bin/parcel build eval_code.p6

@@ -1,0 +1,17 @@
+{
+  "name": "6pad-backend",
+  "version": "1.0.0",
+  "description": "eval code for use in 6pad",
+  "main": "index.js",
+  "dependencies": {
+    "nqp-browser-runtime": "^0.29.0",
+    "parcel": "^1.10.1",
+    "parcel-plugin-nqp": "0.29.0"
+  },
+  "devDependencies": {},
+  "author": "Paweł Murias",
+  "license": "Artistic-2.0",
+  "browserslist": [
+    "last 2 Chrome versions"
+  ]
+}
